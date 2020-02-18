@@ -1,4 +1,5 @@
 displayName = Floor Is Lava
 author = Revolyze
-version = 0.5
+version = 0.6
+homepage = https://forums.terraria.org/index.php?threads/floor-is-lava-mod.86097/
 buildIgnore = *.ase, *.csproj, *.user, obj\*, bin\*, .vs\*
