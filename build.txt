@@ -1,0 +1,4 @@
+displayName = Floor Is Lava
+author = Revolyze
+version = 0.5
+buildIgnore = *.ase, *.csproj, *.user, obj\*, bin\*, .vs\*
